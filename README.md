@@ -154,3 +154,5 @@ Translation history and learning progress are stored in the user's browser with 
 ## Project status
 
 bhasaSetu AI is a demo prototype and is not yet intended for production or unsupervised classroom use.
+
+Link to our web prototype: https://swab-smoky-18035111.figma.site
